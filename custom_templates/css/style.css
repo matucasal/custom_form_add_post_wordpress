@@ -1,0 +1,65 @@
+form {
+  position: relative;
+
+  width  : 740px;
+  height : 498px;
+  margin : 0 auto;
+}
+
+
+#charNum_label {
+  font-size: 75%;
+  color: grey;
+  text-align: right;
+  height: 5px;
+}
+
+
+#imagen_jpg_label {
+  font-size: 75%;
+  color: grey;
+  /*text-align: right;*/
+  height: 5px;
+  float:left;
+}
+
+#imagen_jpg {
+  font-size: 75%;
+  margin-left: 5px;
+}
+
+#imagen_tamanio_label {
+  font-size: 75%;
+  color: grey;
+  /*text-align: right;*/
+  height: 5px;
+  float:left;
+}
+
+#imagen_tamanio {
+  font-size: 75%;
+  margin-left: 5px;
+}
+
+#div_tamanio_imagen{
+  /*margin-top : 15px;*/
+}
+
+#youtube_label {
+  font-size: 75%;
+  color: grey;
+  /*text-align: right;*/
+  height: 5px;
+  float:left;
+}
+
+#youtube_valido {
+  font-size: 75%;
+  margin-left: 5px;
+}
+
+
+#bio {
+word-wrap:break-word;
+height:110px;
+}

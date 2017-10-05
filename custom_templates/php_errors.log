@@ -1,0 +1,75 @@
+[14-Sep-2017 15:04:09 UTC] PHP Warning:  require_once(ABSPATH/wp-admin/includes/taxonomy.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php on line 4
+[14-Sep-2017 15:04:09 UTC] PHP Stack trace:
+[14-Sep-2017 15:04:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php:0
+[14-Sep-2017 15:04:09 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATH/wp-admin/includes/taxonomy.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php on line 4
+[14-Sep-2017 15:04:09 UTC] PHP Stack trace:
+[14-Sep-2017 15:04:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php:0
+[14-Sep-2017 16:11:12 Europe/London] PHP Fatal error:  Call to undefined function test_input() in /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php on line 16
+[14-Sep-2017 16:11:12 Europe/London] PHP Stack trace:
+[14-Sep-2017 16:11:12 Europe/London] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php:0
+[14-Sep-2017 16:12:06 Europe/London] PHP Fatal error:  Call to undefined function wp_insert_post() in /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php on line 49
+[14-Sep-2017 16:12:06 Europe/London] PHP Stack trace:
+[14-Sep-2017 16:12:06 Europe/London] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php:0
+[14-Sep-2017 15:12:20 UTC] PHP Warning:  require_once(/wp-load.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php on line 3
+[14-Sep-2017 15:12:20 UTC] PHP Stack trace:
+[14-Sep-2017 15:12:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php:0
+[14-Sep-2017 15:12:20 UTC] PHP Fatal error:  require_once(): Failed opening required '/wp-load.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php on line 3
+[14-Sep-2017 15:12:20 UTC] PHP Stack trace:
+[14-Sep-2017 15:12:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php:0
+[14-Sep-2017 15:25:45 UTC] PHP Warning:  require_once(ABSPATH/wp-admin/includes/taxonomy.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php on line 4
+[14-Sep-2017 15:25:45 UTC] PHP Stack trace:
+[14-Sep-2017 15:25:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php:0
+[14-Sep-2017 15:25:45 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATH/wp-admin/includes/taxonomy.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php on line 4
+[14-Sep-2017 15:25:45 UTC] PHP Stack trace:
+[14-Sep-2017 15:25:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php:0
+[14-Sep-2017 16:26:58 Europe/London] PHP Fatal error:  Call to undefined function wp_insert_post() in /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php on line 49
+[14-Sep-2017 16:26:58 Europe/London] PHP Stack trace:
+[14-Sep-2017 16:26:58 Europe/London] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php:0
+[14-Sep-2017 15:39:33 UTC] PHP Warning:  require_once(ABSPATH/wp-load.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php on line 3
+[14-Sep-2017 15:39:33 UTC] PHP Stack trace:
+[14-Sep-2017 15:39:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php:0
+[14-Sep-2017 15:39:33 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATH/wp-load.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php on line 3
+[14-Sep-2017 15:39:33 UTC] PHP Stack trace:
+[14-Sep-2017 15:39:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php:0
+[14-Sep-2017 17:01:31 UTC] PHP Warning:  require(/home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/wp-load.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php on line 4
+[14-Sep-2017 17:01:31 UTC] PHP Stack trace:
+[14-Sep-2017 17:01:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php:0
+[14-Sep-2017 17:01:31 UTC] PHP Fatal error:  require(): Failed opening required '/home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/wp-load.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php on line 4
+[14-Sep-2017 17:01:31 UTC] PHP Stack trace:
+[14-Sep-2017 17:01:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php:0
+[14-Sep-2017 18:42:19 Europe/London] PHP Fatal error:  Call to undefined function wp_insert_post() in /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php on line 50
+[14-Sep-2017 18:42:19 Europe/London] PHP Stack trace:
+[14-Sep-2017 18:42:19 Europe/London] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php:0
+[14-Sep-2017 17:49:45 UTC] PHP Warning:  require(./wp-blog-header.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php on line 5
+[14-Sep-2017 17:49:45 UTC] PHP Stack trace:
+[14-Sep-2017 17:49:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php:0
+[14-Sep-2017 17:49:45 UTC] PHP Fatal error:  require(): Failed opening required './wp-blog-header.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php on line 5
+[14-Sep-2017 17:49:45 UTC] PHP Stack trace:
+[14-Sep-2017 17:49:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php:0
+[14-Sep-2017 18:49:54 Europe/London] PHP Fatal error:  Call to undefined function wp_insert_post() in /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php on line 55
+[14-Sep-2017 18:49:54 Europe/London] PHP Stack trace:
+[14-Sep-2017 18:49:54 Europe/London] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php:0
+[14-Sep-2017 17:50:03 UTC] PHP Warning:  require_once(ABSPATH/wp-load.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php on line 8
+[14-Sep-2017 17:50:03 UTC] PHP Stack trace:
+[14-Sep-2017 17:50:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php:0
+[14-Sep-2017 17:50:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATH/wp-load.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php on line 8
+[14-Sep-2017 17:50:03 UTC] PHP Stack trace:
+[14-Sep-2017 17:50:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php:0
+[14-Sep-2017 17:50:35 UTC] PHP Warning:  require(./wp-load.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php on line 3
+[14-Sep-2017 17:50:35 UTC] PHP Stack trace:
+[14-Sep-2017 17:50:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php:0
+[14-Sep-2017 17:50:35 UTC] PHP Fatal error:  require(): Failed opening required './wp-load.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php on line 3
+[14-Sep-2017 17:50:35 UTC] PHP Stack trace:
+[14-Sep-2017 17:50:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php:0
+[14-Sep-2017 17:53:53 UTC] PHP Fatal error:  Call to undefined function trailingslashit() in /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php on line 2
+[14-Sep-2017 17:53:53 UTC] PHP Stack trace:
+[14-Sep-2017 17:53:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php:0
+[14-Sep-2017 18:21:17 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php on line 3
+[14-Sep-2017 18:21:17 UTC] PHP Stack trace:
+[14-Sep-2017 18:21:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php:0
+[14-Sep-2017 19:21:30 Europe/London] PHP Fatal error:  Call to undefined function wp_insert_post() in /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php on line 54
+[14-Sep-2017 19:21:30 Europe/London] PHP Stack trace:
+[14-Sep-2017 19:21:30 Europe/London] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php:0
+[14-Sep-2017 19:21:44 Europe/London] PHP Fatal error:  Call to undefined function wp_insert_post() in /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php on line 54
+[14-Sep-2017 19:21:44 Europe/London] PHP Stack trace:
+[14-Sep-2017 19:21:44 Europe/London] PHP   1. {main}() /home/ubuntu/workspace/wp-content/themes/twentyseventeen/custom_templates/actions/addpost.php:0
